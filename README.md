@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently done internship at fingertips datasolutions<br><br> "Open-source "Data Science, Machine Learning, and Deep Learning* projects.<br>🤝 I’m looking for help with<br> "Optimizing complex "Artificial Neural Networks (ANN)* and scaling real-time deployment platforms like Streamlit.<br>🌱 I’m currently learning<br> "Advanced "Deep Learning" architectures, neural network optimization, and advanced AI workflows.<br>💬 Ask me about<br> Python, Pandas, NumPy, SQL, Machine Learning algorithms, or building interactive business intelligence dashboards in Tableau.<br>⚡ Fun fact<br> I love turning messy, unorganized datasets into clean, visual stories that drive actual business decisions!
+currently done internship at fingertips datasolutions<br><br> Data Science, Machine Learning, and Deep Learning projects.<br>🤝 I’m looking for help with<br> Artificial Neural Networks (ANN) and scaling real-time deployment platforms like Streamlit.<br>🌱 I’m currently learning<br> Deep Learning architectures, neural network optimization, and advanced AI workflows.<br>💬 Ask me about<br> Python, Pandas, NumPy, SQL, Machine Learning algorithms,power bi or building interactive business intelligence dashboards in Tableau.<br>⚡ Fun fact<br> I love turning messy, unorganized datasets into clean, visual stories that drive actual business decisions!
 
 
 ## 🌐 Socials:
